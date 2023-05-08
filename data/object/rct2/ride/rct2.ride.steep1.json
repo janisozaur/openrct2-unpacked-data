@@ -1,9 +1,15 @@
 {
     "id": "rct2.ride.steep1",
-    "authors": ["Chris Sawyer", "Simon Foster"],
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
     "version": "1.0",
     "originalId": "0A188B80|STEEP1  |68721AAF",
-    "sourceGame": ["rct2", "rct1"],
+    "sourceGame": [
+        "rct2",
+        "rct1"
+    ],
     "objectType": "ride",
     "properties": {
         "type": "steeplechase",
@@ -13,13 +19,25 @@
         },
         "carColours": [
             [
-                ["white", "bright_red", "black"]
+                [
+                    "white",
+                    "bright_red",
+                    "black"
+                ]
             ],
             [
-                ["white", "yellow", "black"]
+                [
+                    "white",
+                    "yellow",
+                    "black"
+                ]
             ],
             [
-                ["white", "light_blue", "black"]
+                [
+                    "white",
+                    "light_blue",
+                    "black"
+                ]
             ]
         ],
         "cars": {
@@ -38,11 +56,16 @@
             },
             "hasAdditionalColour1": true,
             "hasScreamingRiders": true,
-            "loadingPositions": [4, -4]
+            "loadingPositions": [
+                4,
+                -4
+            ]
         },
         "buildMenuPriority": 3
     },
-    "images": ["$RCT2:OBJDATA/STEEP1.DAT[0..258]"],
+    "images": [
+        "$RCT2:OBJDATA/STEEP1.DAT[0..258]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Horses",
@@ -78,7 +101,6 @@
             "pt-BR": "Carros únicos moldados como um cavalo",
             "ar-EG": "Single cars shaped like a horse",
             "cs-CZ": "Vozy ve tvaru koní vozí návštěvníky po jednokolejné trati",
-            "en-US": "Single cars shaped like a horse",
             "ja-JP": "シングルレールコースを馬の形の車両が走行する乗物です",
             "pl-PL": "Pasażerowie jadą pojazdami w kształcie koni, poruszającymi się po jednoszynowym torze kolejki",
             "ru-RU": "Люди едут на машинках в виде лошадей.",

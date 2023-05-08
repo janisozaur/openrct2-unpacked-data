@@ -1,6 +1,8 @@
 {
     "id": "rct2tt.scenery_large.ashnymph",
-    "authors": ["Frontier Studios"],
+    "authors": [
+        "Frontier Studios"
+    ],
     "version": "1.0",
     "originalId": "0E24F822|ASHNYMPH|5AE839BE",
     "sourceGame": "rct2tt",
@@ -127,12 +129,14 @@
             }
         ]
     },
-    "images": ["$RCT2:OBJDATA/ASHNYMPH.DAT[0..67]"],
+    "images": [
+        "$RCT2:OBJDATA/ASHNYMPH.DAT[0..67]"
+    ],
     "strings": {
         "name": {
             "en-GB": "Ash Tree with Nymphs",
             "fr-FR": "Frêne avec des nymphes",
-            "de-DE": "Aschenbaum mit Nymphen",
+            "de-DE": "Eschenbaum mit Nymphen",
             "es-ES": "Fresno con ninfas",
             "it-IT": "Frassino con ninfa",
             "nl-NL": "Es met Nimfen",
