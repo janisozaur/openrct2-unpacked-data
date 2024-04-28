@@ -16,7 +16,8 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css22.dat",
-                "name": "Pharaoh’s Tomb"
+                "name": "Pharaoh’s Tomb",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -42,7 +43,8 @@
             "tr-TR": "Mısırlı tarzı",
             "zh-CN": "埃及风格",
             "zh-TW": "埃及風格",
-            "eo-ZZ": "Egipta stilo"
+            "eo-ZZ": "Egipta stilo",
+            "nb-NO": "Egyptisk stil"
         }
     }
 }

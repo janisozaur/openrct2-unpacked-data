@@ -13,7 +13,6 @@
         "cursor": "CURSOR_STATUE_DOWN",
         "height": 16,
         "shape": "4/4",
-        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
         "requiresFlatSurface": true,
         "isRotatable": true,
         "isStackable": true
@@ -40,7 +39,8 @@
             "eo-ZZ": "Viskio-Barelo",
             "ca-ES": "Barril de whisky",
             "fi-FI": "Viskitynnyri",
-            "zh-CN": "威士忌桶"
+            "zh-CN": "威士忌桶",
+            "hu-HU": "Whiskys hordó"
         }
     }
 }

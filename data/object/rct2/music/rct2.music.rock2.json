@@ -16,7 +16,8 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css36.dat",
-                "name": "Big Rock"
+                "name": "Big Rock",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -42,7 +43,8 @@
             "tr-TR": "Rock tarzı 2",
             "zh-CN": "摇滚风格2",
             "zh-TW": "搖滾風格2",
-            "eo-ZZ": "Rokmuzika stilo 2"
+            "eo-ZZ": "Rokmuzika stilo 2",
+            "nb-NO": "Rock-stil 2"
         }
     }
 }

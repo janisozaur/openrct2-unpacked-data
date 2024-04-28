@@ -15,7 +15,8 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css43.dat",
-                "name": "Techno Torture"
+                "name": "Techno Torture",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -41,7 +42,8 @@
             "tr-TR": "Modern tarz",
             "zh-CN": "摩登风格",
             "zh-TW": "摩登風格",
-            "eo-ZZ": "Moderna stilo"
+            "eo-ZZ": "Moderna stilo",
+            "nb-NO": "Moderne stil"
         }
     }
 }

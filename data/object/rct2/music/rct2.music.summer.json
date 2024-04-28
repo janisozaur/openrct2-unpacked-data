@@ -16,7 +16,8 @@
         "tracks": [
             {
                 "source": "$RCT2:DATA/css29.dat",
-                "name": "Mid Summer’s Heat"
+                "name": "Mid Summer’s Heat",
+                "composer": "Allister Brimble"
             }
         ]
     },
@@ -42,7 +43,8 @@
             "tr-TR": "Yaz tarzı",
             "zh-CN": "夏日风格",
             "zh-TW": "夏日風格",
-            "eo-ZZ": "Somera stilo"
+            "eo-ZZ": "Somera stilo",
+            "nb-NO": "Sommer-stil"
         }
     }
 }
