@@ -9,6 +9,7 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
+            "rct2.peep_animations.entertainer_astronaut",
             "rct2tt.scenery_large.histfix1",
             "rct2tt.scenery_large.histfix2",
             "rct2tt.scenery_large.alencrsh",
@@ -119,8 +120,7 @@
             "rct2tt.scenery_small.fltsign1",
             "rct2tt.scenery_small.fltsign2"
         ],
-        "priority": 51,
-        "entertainerCostumes": "astronaut"
+        "priority": 51
     },
     "images": [
         "$RCT2:OBJDATA/SCGFUTUR.DAT[0..1]"
@@ -139,7 +139,7 @@
             "pt-BR": "Temática Futurista",
             "cs-CZ": "Budoucnost",
             "pl-PL": "Wystrój przyszłościowy",
-            "ru-RU": "Будущее",
+            "ru-RU": "Тема «Будущее»",
             "ja-JP": "未来のテーマ",
             "eo-ZZ": "Estonteca Temo",
             "ca-ES": "Temàtica futurística",

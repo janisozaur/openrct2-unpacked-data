@@ -9,6 +9,7 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
+            "rct2.peep_animations.entertainer_snowman",
             "rct2ww.scenery_small.roofig01",
             "rct2ww.scenery_small.roofig02",
             "rct2ww.scenery_small.roofig03",
@@ -56,8 +57,7 @@
             "rct2ww.scenery_small.pva",
             "rct2ww.scenery_large.sunken"
         ],
-        "priority": 42,
-        "entertainerCostumes": "snowman"
+        "priority": 42
     },
     "images": [
         "$RCT2:OBJDATA/SCGARTIC.DAT[0..1]"
@@ -74,7 +74,7 @@
             "cs-CZ": "Antarktida",
             "ko-KR": "남극 테마",
             "pl-PL": "Wystrój antarktyczny",
-            "ru-RU": "Тема Антарктики",
+            "ru-RU": "Антарктическая тема",
             "pt-BR": "Temática Antártica",
             "ja-JP": "南極のテーマ",
             "eo-ZZ": "Antarkta Temo",

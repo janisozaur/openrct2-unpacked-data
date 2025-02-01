@@ -9,6 +9,8 @@
     "objectType": "scenery_group",
     "properties": {
         "entries": [
+            "rct2.peep_animations.entertainer_bandit",
+            "rct2.peep_animations.entertainer_sheriff",
             "rct2ww.scenery_small.campfani",
             "rct2ww.scenery_small.rlog01",
             "rct2ww.scenery_small.rlog02",
@@ -123,11 +125,7 @@
             "rct2ww.scenery_large.1x4brg04",
             "rct2ww.scenery_large.1x4brg05"
         ],
-        "priority": 46,
-        "entertainerCostumes": [
-            "bandit",
-            "sheriff"
-        ]
+        "priority": 46
     },
     "images": [
         "$RCT2:OBJDATA/SCGNAMRC.DAT[0..1]"
@@ -144,7 +142,7 @@
             "cs-CZ": "Severní Amerika",
             "ko-KR": "북아메리카 테마",
             "pl-PL": "Wystrój północnoamerykański",
-            "ru-RU": "Тема Северной Америки",
+            "ru-RU": "Североамериканская тема",
             "pt-BR": "Temática Norte-americana",
             "ja-JP": "北アメリカのテーマ",
             "eo-ZZ": "Nordamerika Temo",
