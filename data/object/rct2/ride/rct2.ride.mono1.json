@@ -164,7 +164,8 @@
             "ru-RU": "Гладкие монорельсовые поезда",
             "eo-ZZ": "Aerodinamikaj Monorelaj Trajnoj",
             "ca-ES": "Trens monorails aerodinàmics",
-            "fi-FI": "Virtaviivaiset kohoratavaunut"
+            "fi-FI": "Virtaviivaiset kohoratavaunut",
+            "gl-ES": "Trens monorraíl aerodinámicos"
         },
         "description": {
             "en-GB": "Large capacity monorail trains with streamlined front and rear cars",
@@ -184,7 +185,8 @@
             "ru-RU": "Вместитильные поезда для монорельсов, с гладкими передними и задними машинами",
             "eo-ZZ": "Grandspacaj monorelaj trajnoj kun aerodinamikaj frontaj kaj postaj ĉaroj",
             "ca-ES": "Trens monorail de gran capacitat amb els cotxes davanter i posterior aerodinàmics.",
-            "fi-FI": "Suuren kapasiteetin kohoratajunat, joissa on virtaviivaiset etu- ja takavaunut"
+            "fi-FI": "Suuren kapasiteetin kohoratajunat, joissa on virtaviivaiset etu- ja takavaunut",
+            "gl-ES": "Trens monorraíl de gran capacidade con coches dianteiros e traseiros aerodinámicos"
         },
         "capacity": {
             "en-GB": "5 or 10 passengers per car",
@@ -204,7 +206,8 @@
             "ru-RU": "5 или 10 пассажиров на машину",
             "eo-ZZ": "Po 5 aŭ 10 pasaĝeroj por ĉaro",
             "ca-ES": "5 o 10 passatgers per cotxe",
-            "fi-FI": "5 tai 10 matkustajaa per vaunu"
+            "fi-FI": "5 tai 10 matkustajaa per vaunu",
+            "gl-ES": "5 ou 10 pasaxeiros por coche"
         }
     }
 }

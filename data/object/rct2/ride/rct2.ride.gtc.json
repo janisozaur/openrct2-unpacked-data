@@ -113,7 +113,8 @@
             "ru-RU": "Машины-призраки",
             "eo-ZZ": "Ĉaroj de Fantomo-Trajno",
             "ca-ES": "Tren de la bruixa",
-            "fi-FI": "Kummitusjunavaunut"
+            "fi-FI": "Kummitusjunavaunut",
+            "gl-ES": "Vagóns do Tren do Terror"
         },
         "description": {
             "en-GB": "Powered monster-shaped cars that run on a ghost train track",
@@ -133,7 +134,8 @@
             "ru-RU": "Машины в форме монстров, едущие по призрачным рельсам",
             "eo-ZZ": "Ŝaltitaj monstroformaj ĉaroj, kiuj veturas sur trako de fantomo-trajno",
             "ca-ES": "Cotxes en forma de monstre que circulen per una via per un escenari fosc i ple d’efectes especials.",
-            "fi-FI": "Moottoroidut monsterin muotoiset vaunut, jotka kulkevat kummitusjunan radalla"
+            "fi-FI": "Moottoroidut monsterin muotoiset vaunut, jotka kulkevat kummitusjunan radalla",
+            "gl-ES": "Vagóns motorizados con forma de monstro que circulan por unha vía de tren do terror"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -153,7 +155,8 @@
             "ru-RU": "2 пассажира на машину",
             "eo-ZZ": "Po 2 pasaĝeroj por ĉaro",
             "ca-ES": "2 passatgers per cotxe",
-            "fi-FI": "2 matkustajaa per vaunu"
+            "fi-FI": "2 matkustajaa per vaunu",
+            "gl-ES": "2 pasaxeiros por coche"
         }
     }
 }

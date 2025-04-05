@@ -93,7 +93,8 @@
             "ru-RU": "Спиральные поезда",
             "eo-ZZ": "Spiralaj Trajnoj de Onda Fervojo",
             "ca-ES": "Muntanya russa en espiral",
-            "fi-FI": "Kierrevuoristoradan vaunut"
+            "fi-FI": "Kierrevuoristoradan vaunut",
+            "gl-ES": "Trens de montaña rusa en espiral"
         },
         "description": {
             "en-GB": "Compact roller coaster trains with cars with in-line seating",
@@ -113,7 +114,8 @@
             "ru-RU": "Компактные поезда с сиденьями, идущими в ряд",
             "eo-ZZ": "Kompaktaj trajnoj de onda fervojo kun kolono da seĝoj",
             "ca-ES": "Muntanya russa amb cotxes en els quals els passatgers seuen un darrere l’altre.",
-            "fi-FI": "Kompaktit vuoristoratavaunut"
+            "fi-FI": "Kompaktit vuoristoratavaunut",
+            "gl-ES": "Trens de montaña rusa compactos con vagóns de asentos en liña"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -133,7 +135,8 @@
             "ru-RU": "6 пассажиров на машину",
             "eo-ZZ": "Po 6 pasaĝeroj por ĉaro",
             "ca-ES": "6 passatgers per cotxe",
-            "fi-FI": "6 matkustajaa per vaunu"
+            "fi-FI": "6 matkustajaa per vaunu",
+            "gl-ES": "6 pasaxeiros por coche"
         }
     }
 }
