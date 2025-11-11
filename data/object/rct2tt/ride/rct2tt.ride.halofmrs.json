@@ -288,7 +288,8 @@
             "ca-ES": "Sala dels espills",
             "fi-FI": "Peilitalo",
             "zh-CN": "镜子迷阵",
-            "gl-ES": "Salón dos Espellos"
+            "gl-ES": "Salón dos Espellos",
+            "hu-HU": "Tükörútvesztő"
         },
         "description": {
             "en-GB": "Building containing warped mirrors which distort the reflection of the viewer",
@@ -302,14 +303,15 @@
             "zh-TW": "建築物中有變形的鏡子,會將觀看鏡子的人的影響扭曲",
             "ja-JP": "歪んだ鏡のある建物です",
             "pt-BR": "Prédio contendo espelhos retorcidos que distorcem o reflexo de quem os vê",
-            "cs-CZ": "Budova s pokřivenými zrcadly",
+            "cs-CZ": "Budova s pokřivenými zrcadly zkreslujícími odraz návštevníka",
             "pl-PL": "Budynek z powykrzywianymi lustrami, zniekształcającymi odbicia gości",
             "ru-RU": "Здание с кривыми зеркалами, искажающими отражения гостей",
             "eo-ZZ": "Konstruaĵo, kiu enhavas torditajn spegulojn, kiuj tordas la rebrilon de la vidanto",
             "ca-ES": "Edifici que conté espills deformats que distorsionen la reflexió de la imatge.",
             "fi-FI": "Rakennus, jossa on kieroja peilejä, jotka vääristävät katsojan peilikuvan",
             "zh-CN": "含有会扭曲观众形象的哈哈镜的建筑，",
-            "gl-ES": "Edificio que contén espellos deformados que distorsionan o reflexo do espectador"
+            "gl-ES": "Edificio que contén espellos deformados que distorsionan o reflexo do espectador",
+            "hu-HU": "Torz tükröket tartalmazó épület, amelyek eltorzítják a néző tükörképét"
         },
         "capacity": {
             "en-GB": "5 guests",
@@ -323,14 +325,15 @@
             "zh-TW": "5位遊客",
             "ja-JP": "定員5名",
             "pt-BR": "5 visitantes",
-            "cs-CZ": "5 návštěvníků",
+            "cs-CZ": "5 míst",
             "pl-PL": "5 osób",
             "ru-RU": "5 гостей",
             "eo-ZZ": "5 gastoj",
             "ca-ES": "5 visitants",
             "fi-FI": "5 kävijää",
             "zh-CN": "5位乘客",
-            "gl-ES": "5 invitados"
+            "gl-ES": "5 invitados",
+            "hu-HU": "5 vendég"
         }
     }
 }

@@ -29,7 +29,7 @@
             "nl-NL": "Grote Totempaal",
             "sv-SE": "Stor totempåle",
             "zh-CN": "大型的图腾柱",
-            "cs-CZ": "Totem",
+            "cs-CZ": "Velký totem",
             "ko-KR": "커다란 토템 기둥",
             "pl-PL": "Wielki totem",
             "ru-RU": "Большой тотем",
@@ -38,7 +38,8 @@
             "eo-ZZ": "Granda Totemfosto",
             "ca-ES": "Post enorme de tòtem",
             "fi-FI": "Suuri toteemipaalu",
-            "gl-ES": "Póla de Tótem Grande"
+            "gl-ES": "Póla de Tótem Grande",
+            "hu-HU": "Nagy totemoszlop"
         }
     }
 }

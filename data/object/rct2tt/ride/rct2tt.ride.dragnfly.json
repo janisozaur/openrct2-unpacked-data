@@ -15,21 +15,21 @@
                 [
                     "black",
                     "light_orange",
-                    "black"
+                    "yellow"
                 ]
             ],
             [
                 [
                     "bright_red",
                     "yellow",
-                    "black"
+                    "yellow"
                 ]
             ],
             [
                 [
                     "dark_green",
                     "bright_red",
-                    "black"
+                    "yellow"
                 ]
             ]
         ],
@@ -50,7 +50,6 @@
                 "slopes8": 4,
                 "slopes16": 4
             },
-            "hasAdditionalColour2": true,
             "hasAdditionalColour1": true,
             "hasSwinging": true,
             "hasScreamingRiders": true,
@@ -115,14 +114,15 @@
             "ja-JP": "とんぼ車両",
             "pt-BR": "Carros Libélula",
             "ar-EG": "سيارات التانين الطائرة",
-            "cs-CZ": "Šídlí horská dráha",
+            "cs-CZ": "Vážkové vozy",
             "pl-PL": "Ważka jazda",
             "ru-RU": "Машины-стрекозы",
             "eo-ZZ": "Libelo-Ĉaroj",
             "ca-ES": "Cotxes libèl·lula",
             "fi-FI": "Sudenkorentovaunut",
             "zh-CN": "蜻蜓车",
-            "gl-ES": "Coches Libélula"
+            "gl-ES": "Coches Libélula",
+            "hu-HU": "Szitakötő kocsik"
         },
         "description": {
             "en-GB": "Dragonfly-shaped cars which swing from the rail above",
@@ -136,14 +136,15 @@
             "zh-TW": "乘客搭乘懸掛在單軌軌道上的特殊車輛，在軌道兩端自由?盪",
             "pt-BR": "Vagões em formato de libélula que pendem do trilho acima",
             "ja-JP": "上部のレールからスイングする、とんぼ形の車両です",
-            "cs-CZ": "Návštěvníci jedou na jednokolejné trati zavěšeni ve speciálním voze, který se v zatáčkách houpe",
+            "cs-CZ": "Vozy, ve tvaru vážek, houpající se zavěšené pod kolejnicí",
             "pl-PL": "Pasażerowie jadą w specjalnych wagonikach podwieszonych pod jednoszynowym torem, wychylając się swobodnie na zakrętach",
             "ru-RU": "Машины в форме стрекозы, подвешенные на рельсе сверху",
             "eo-ZZ": "Libeloformaj ĉaroj, kiuj svingiĝas sub la relo supere",
             "ca-ES": "Cotxes en forma de libèl·lula que es balancegen des del rail superior.",
             "fi-FI": "Sudenkorennon muotoiset vaunut, jotka keinuvat kiskon alla",
             "zh-CN": "从上面的铁轨摆动的蜻蜓形车",
-            "gl-ES": "Coches con forma de libélula que se balancean desde o carril de arriba"
+            "gl-ES": "Coches con forma de libélula que se balancean desde o carril de arriba",
+            "hu-HU": "Szitakötő alakú kocsik, amelyek a fenti sínről lengenek"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -164,7 +165,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "zh-CN": "2位乘客/车",
-            "gl-ES": "2 pasaxeiros por coche"
+            "gl-ES": "2 pasaxeiros por coche",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

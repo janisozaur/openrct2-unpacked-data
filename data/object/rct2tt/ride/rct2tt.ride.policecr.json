@@ -146,14 +146,15 @@
             "ja-JP": "パトカー",
             "pt-BR": "Carros de Polícia",
             "ar-EG": "سيارات الشرطة",
-            "cs-CZ": "Horská dráha policejních vozů",
+            "cs-CZ": "Policejní vozy",
             "pl-PL": "Gonitwa radiowozów",
             "ru-RU": "Полицейские машины",
             "eo-ZZ": "Policaj Aŭtoj",
             "ca-ES": "Cotxes de policia",
             "fi-FI": "Poliisiautot",
             "zh-CN": "警察车",
-            "gl-ES": "Coches da Policía"
+            "gl-ES": "Coches da Policía",
+            "hu-HU": "Rendőrautók"
         },
         "description": {
             "en-GB": "1920s-themed police cars run on wooden tracks, turning around on special reversing sections",
@@ -167,14 +168,15 @@
             "zh-TW": "以1920年代為主題的警車在木架軌道上奔馳,轉進特殊倒轉區域",
             "ja-JP": "特殊な反転ターンがある木製のコースを1920年代のパトカーが走行するコースターです",
             "pt-BR": "Vagões temáticos de polícia dos anos 20 correm em pista de madeira, virando em seções especiais de reversão",
-            "cs-CZ": "Po dřevěné dráze jedou vozy ve tvaru policejních aut 20. let, které se ve speciálních místech se otočí a jedou pozpátku",
+            "cs-CZ": "Vozy ve stylu policejních aut 20. let minulého století, jezdící po dřevěné trati se speciálními úseky pro změnu směru jízdy",
             "pl-PL": "Radiowozy w stylu lat 20. jadą po drewnianym torze, zawracając na specjalnych obrotowych odcinkach trasy",
             "ru-RU": "Полицейские машины стиля 1920х на деревянном треке, разворачивающиеся в обратном направлении на особых секциях",
             "eo-ZZ": "1920-aj-temitaj policaj aŭtoj veturas sur lignaj trakoj, kiuj turniĝas sur specialaj inversigantaj partoj",
             "ca-ES": "Cotxes de policia de l’any 1920 que es mouen per vies de fusta que giren completament en seccions especials.",
             "fi-FI": "1920-luvun poliisiautojen teemaiset vaunut, jotka kulkevat puisilla kiskoilla, ja kääntyvät ympäri erityisissä kääntöosioissa",
             "zh-CN": "1920年代主题警车在木质轨道上行驶，在特殊倒车段掉头s",
-            "gl-ES": "Coches de policía inspirados nos anos 20 circulan por vías de madeira, xirando en seccións especiais de inversión"
+            "gl-ES": "Coches de policía inspirados nos anos 20 circulan por vías de madeira, xirando en seccións especiais de inversión",
+            "hu-HU": "Az 1920-as évek tematikájú rendőrautók fa síneken futnak, és speciális fordítószakaszokon fordulnak meg"
         },
         "capacity": {
             "en-GB": "6 passengers per car",
@@ -195,7 +197,8 @@
             "ca-ES": "6 passatgers per cotxe",
             "fi-FI": "6 matkustajaa per vaunu",
             "zh-CN": "6位乘客/车",
-            "gl-ES": "6 pasaxeiros por coche"
+            "gl-ES": "6 pasaxeiros por coche",
+            "hu-HU": "6 utas kocsinként"
         }
     }
 }

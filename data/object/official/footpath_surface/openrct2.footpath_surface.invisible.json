@@ -82,7 +82,9 @@
             "zh-CN": "隐形步道",
             "ru-RU": "Невидимая тропа",
             "gl-ES": "Camiño Invisible",
-            "ja-JP": "見えない歩道"
+            "ja-JP": "見えない歩道",
+            "cs-CZ": "Neviditelná cesta",
+            "es-ES": "Sendero Invisible"
         }
     }
 }

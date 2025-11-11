@@ -25,7 +25,7 @@
             "nl-NL": "Vitselstekmuur",
             "sv-SE": "Flätverk, vägg",
             "zh-CN": "泥芭墙",
-            "cs-CZ": "Hliněná zeď",
+            "cs-CZ": "Zeď z proutí a mazaniny",
             "ko-KR": "초벽 벽",
             "pl-PL": "Ściana lepianki",
             "ru-RU": "Стена Wattle & Daub",
@@ -34,7 +34,8 @@
             "eo-ZZ": "Muro el hurdoj kaj tero",
             "ca-ES": "Paret de fusta i fang",
             "fi-FI": "Savitalon seinä",
-            "gl-ES": "Parede de Varas e Barro"
+            "gl-ES": "Parede de Varas e Barro",
+            "hu-HU": "Vesszőfonat és vályog fal"
         }
     }
 }

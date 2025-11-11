@@ -221,7 +221,8 @@
             "ca-ES": "Cotxes de carreres del 1920",
             "fi-FI": "1920-luvun kilpa-autot",
             "zh-CN": "1920年代赛车",
-            "gl-ES": "Coches de carreiras de 1920"
+            "gl-ES": "Coches de carreiras de 1920",
+            "hu-HU": "1920-as évekbeli versenyautók"
         },
         "description": {
             "en-GB": "1920s race car themed go-karts",
@@ -235,14 +236,15 @@
             "zh-TW": "乘客乘坐以 1920 年代為主題的高卡賽車互相競速",
             "ja-JP": "自分で操縦する、1920年代のレースカーです",
             "pt-BR": "Karts com temática dos anos 20",
-            "cs-CZ": "Benzínové ovladatelné motokáry ve stylu 20. let",
+            "cs-CZ": "Motokáry ve stylu 20. let minulého století",
             "pl-PL": "Pasażerowie ścigają się w gokartach stylizowanych na samochody z lat 20.",
             "ru-RU": "Гоночные машины в стиле 1920 годов",
             "eo-ZZ": "Gokartoj kun temo de 1920-aj vetkuraŭtoj",
             "ca-ES": "Karts tematitzats com a cotxes de carreres de l’any 1920.",
             "fi-FI": "1920-luvun kilpa-auton tyyliset mikroautot",
             "zh-CN": "1920年代以赛车为主题的卡丁车",
-            "gl-ES": "Karts con temática de coches de carreiras dos anos 20"
+            "gl-ES": "Karts con temática de coches de carreiras dos anos 20",
+            "hu-HU": "1920-as évekbeli versenyautó témájú gokartok"
         },
         "capacity": {
             "en-GB": "Single-seater",
@@ -263,7 +265,8 @@
             "ca-ES": "Monoplaça",
             "fi-FI": "Yksipaikkainen",
             "zh-CN": "单座",
-            "gl-ES": "Monopraza"
+            "gl-ES": "Monopraza",
+            "hu-HU": "Egyszemélyes"
         }
     }
 }

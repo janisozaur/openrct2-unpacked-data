@@ -23,7 +23,7 @@
         "carColours": [
             [
                 [
-                    "black",
+                    "light_blue",
                     "bright_pink",
                     "yellow"
                 ]
@@ -31,6 +31,7 @@
         ],
         "cars": [
             {
+                "hasBaseColour": false,
                 "rotationFrameMask": 31,
                 "spacing": 313776,
                 "mass": 950,
@@ -60,6 +61,7 @@
                 ]
             },
             {
+                "hasBaseColour": false,
                 "rotationFrameMask": 0,
                 "spacing": 87160,
                 "frictionSoundId": 2,
@@ -112,7 +114,7 @@
             "zh-TW": "三葉蟲外形的列車在雲霄飛車的曲線迴轉及陡坡急墜軌道上運行,將平靜的河面激起大量的水花。",
             "pt-BR": "Vagões em forma de trilobitas",
             "ja-JP": "三葉虫の型のローラーコースター車両です",
-            "cs-CZ": "Vozy ve tvaru trilobitů jedou po trati horské dráhy, což umožňuje ostré zatáčky, strmé klesání a cákající zpomalení pro mírnější říční úseky",
+            "cs-CZ": "Vozy ve tvaru trilobitů pro vodní horskou dráhu",
             "pl-PL": "Wagoniki w kształcie trylobitów jadą po torze, pokonując ostre zakręty i strome zjazdy, i wpadając od czasu do czasu w odcinki rzeczne",
             "ru-RU": "Машины в форме трилобитов",
             "eo-ZZ": "Trilobitformaj ĉaroj de onda fervojo",

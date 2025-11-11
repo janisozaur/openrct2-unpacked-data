@@ -18,14 +18,14 @@
                 [
                     "bright_red",
                     "yellow",
-                    "dark_purple"
+                    "yellow"
                 ]
             ],
             [
                 [
                     "teal",
                     "grey",
-                    "black"
+                    "yellow"
                 ]
             ]
         ],
@@ -55,7 +55,6 @@
                     "restraintAnimation": true
                 },
                 "hasInvertedSpriteSet": true,
-                "hasAdditionalColour2": true,
                 "spriteBoundsIncludeInvertedSet": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
@@ -91,7 +90,6 @@
                     "restraintAnimation": true
                 },
                 "hasInvertedSpriteSet": true,
-                "hasAdditionalColour2": true,
                 "hasAdditionalColour1": true,
                 "hasScreamingRiders": true,
                 "loadingPositions": [
@@ -119,14 +117,14 @@
             "zh-TW": "翼手龍雲霄飛車",
             "ja-JP": "プテロダクティルス・トレイン",
             "pt-BR": "Trens Pterodáctilo",
-            "cs-CZ": "Pterodaktylská horská dráha",
+            "cs-CZ": "Pterodaktylí vlaky",
             "pl-PL": "Pterodaktylot",
             "ru-RU": "Поезда-птеродактили",
             "eo-ZZ": "Pterodaktilo-Trajnoj",
             "ca-ES": "Muntanya russa Pterodàctil",
             "fi-FI": "Lentoliskovaunut",
             "zh-CN": "翼龙火车",
-            "hu-HU": "Pterodactyl Trains",
+            "hu-HU": "Pterodactyl vonatok",
             "gl-ES": "Trens de Pterodáctilo"
         },
         "description": {

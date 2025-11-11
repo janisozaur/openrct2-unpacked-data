@@ -75,14 +75,15 @@
             "ja-JP": "黒死病ボブスレー",
             "pt-BR": "Trens Peste Negra",
             "ar-EG": "قطارات الموت الأسود",
-            "cs-CZ": "Morová horská dráha",
+            "cs-CZ": "Morové vlaky",
             "pl-PL": "Czarna śmierć",
             "ru-RU": "Поезда «чёрная смерть»",
             "eo-ZZ": "Trajnoj de la Nigra Morto",
             "ca-ES": "Trens de la pesta negra",
             "fi-FI": "Musta surma -vaunut",
             "zh-CN": "黑色死亡列车",
-            "gl-ES": "Trens da Peste Negra"
+            "gl-ES": "Trens da Peste Negra",
+            "hu-HU": "Fekete halál vonatok"
         },
         "description": {
             "en-GB": "Rat-shaped trains consisting of 2-seater cars where the riders are behind each other",
@@ -95,7 +96,7 @@
             "ko-KR": "반원형 트랙의 커브와 뱅킹만을 따라 이동하는 봅슬레이 모양의 차량을 타고 이리 저리 꼬여있는 트랙을 따라 내려오는 놀이기구",
             "zh-TW": "乘客在老鼠外形的車輛中只有依循著彎曲的半圓形軌道急速地猛衝旋轉前進",
             "pt-BR": "Trens em forma de rato com vagões de dois assentos, onde os passageiros sentam uns atrás dos outros",
-            "cs-CZ": "Návštěvníci jedou po propletené bobové dráze",
+            "cs-CZ": "Vlaky ve tvaru krys složené z dvoumístných vozů se sedadly uspořádanými za sebou",
             "pl-PL": "Pasażerowie zjeżdżają krętym torem w wagonikach w kształcie szczurów, kierowanych jedynie krzywizną i nachyleniem półkolistego toru",
             "ru-RU": "Поезда в виде крыс, с двухвестными машинами, где пассажиры сидят друг за другом",
             "ja-JP": "ネズミの型の二人乗り車両で、乗客は前後に座ります",
@@ -103,7 +104,8 @@
             "ca-ES": "Trens en forma de rata amb cotxes de 2 seients on els passatgers estan un darrere l’altre.",
             "fi-FI": "Rotan muotoiset vaunut, jossa kaksi matkustajaa istuu peräkkäin",
             "zh-CN": "鼠形列车由2人座车厢组成，乘客彼此并排",
-            "gl-ES": "Trens en forma de rata que consisten en coches de 2 prazas onde os pilotos están un detrás do outro"
+            "gl-ES": "Trens en forma de rata que consisten en coches de 2 prazas onde os pilotos están un detrás do outro",
+            "hu-HU": "Patkány formájú vonatok, amelyek 2 üléses kocsikból állnak, amelyeken az utasok egymás mögött helyezkednek el"
         },
         "capacity": {
             "en-GB": "2 passengers per car",
@@ -124,7 +126,8 @@
             "ca-ES": "2 passatgers per cotxe",
             "fi-FI": "2 matkustajaa per vaunu",
             "zh-CN": "2位乘客/车",
-            "gl-ES": "2 pasaxeiros por coche"
+            "gl-ES": "2 pasaxeiros por coche",
+            "hu-HU": "2 utas kocsinként"
         }
     }
 }

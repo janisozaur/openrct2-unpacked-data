@@ -71,14 +71,15 @@
             "zh-TW": "騎士競技雲霄飛車",
             "ja-JP": "馬上槍試合の騎士",
             "pt-BR": "Cavaleiros de Justa",
-            "cs-CZ": "Turnajová horská dráha",
+            "cs-CZ": "Turnajoví rytíři",
             "pl-PL": "Turniej rycerski",
             "ru-RU": "Сражающиеся рыцари",
             "eo-ZZ": "Kavaliroj kun Lancoj",
             "ca-ES": "Justa de cavallers",
             "fi-FI": "Turnaavat ritarit",
             "zh-CN": "骑枪比武",
-            "gl-ES": "Cabaleiros en Torneos de Lanza"
+            "gl-ES": "Cabaleiros en Torneos de Lanza",
+            "hu-HU": "Bajvívó lovagok"
         },
         "description": {
             "en-GB": "Separate horse-shaped vehicles with a jousting knight on the front",
@@ -92,20 +93,21 @@
             "zh-TW": "乘客坐在單軌軌道上戰馬外形的車輛後方",
             "pt-BR": "Veículos separados em formato de cavalos",
             "ja-JP": "シングルレールコースを馬上槍試合の騎士の形の車両が走行する乗物です",
-            "cs-CZ": "Návštěvníci sedí na zádi vozů ve tvaru koní, které jedou po jednokolejné dráze",
+            "cs-CZ": "Návštěvníci sedí na zádi vozů ve tvaru koní jedoucích po jednokolejné dráze",
             "pl-PL": "Pasażerowie podróżują wagonikami w kształcie koni, jadącymi po jednoszynowym torze",
             "ru-RU": "Машины в форме лошадей с рыцарем",
             "eo-ZZ": "Apartaj ĉevaloformaj veturiloj, kun kavaliro kun lanco ĉe la fronto",
             "ca-ES": "Vehicles separats en forma de cavall amb un cavaller fent una justa al davant.",
             "fi-FI": "Yksittäiset hevosen muotoiset vaunut, joiden kärjessä on turnaava ritari",
             "zh-CN": "单独的马形车辆，前面有一个骑马骑士",
-            "gl-ES": "Vehículos separados en forma de cabalo cun cabaleiro de xusta na parte dianteira"
+            "gl-ES": "Vehículos separados en forma de cabalo cun cabaleiro de xusta na parte dianteira",
+            "hu-HU": "Különálló ló alakú járművek, elöl egy bajvívó lovaggal"
         },
         "capacity": {
             "en-GB": "2 riders per vehicle",
             "fr-FR": "2 passagers par véhicule",
             "de-DE": "2 Fahrer pro Wagen",
-            "es-ES": "2 pasajeros por coche",
+            "es-ES": "2 pasajeros por vehículo",
             "it-IT": "2 passeggeri per veicolo",
             "nl-NL": "2 passagiers per paard",
             "sv-SE": "2 passagerare per vagn",
@@ -120,7 +122,8 @@
             "ca-ES": "2 genets per cavall",
             "fi-FI": "2 ratsastajaa per ajoneuvo",
             "zh-CN": "2位乘客/车",
-            "gl-ES": "2 pilotos por vehículo"
+            "gl-ES": "2 pilotos por vehículo",
+            "hu-HU": "2 utas járművenként"
         }
     }
 }

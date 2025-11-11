@@ -79,14 +79,15 @@
             "zh-CN": "摩托车竞速赛",
             "zh-TW": "摩托車競速賽",
             "pt-BR": "Motos",
-            "cs-CZ": "Závody motorek",
+            "cs-CZ": "Motorky",
             "ja-JP": "オートバイレース",
             "pl-PL": "Wyścigi motocyklowe",
             "ru-RU": "Мотоциклы",
             "eo-ZZ": "Motorbicikloj",
             "ca-ES": "Motocicletes",
             "fi-FI": "Moottoripyörät",
-            "gl-ES": "Motos"
+            "gl-ES": "Motos",
+            "hu-HU": "Motorkerékpárok"
         },
         "description": {
             "en-GB": "Single cars shaped like a motorbike",
@@ -100,14 +101,15 @@
             "zh-CN": "乘客搭着摩托车形的过山车车辆延着单轨轨道前进",
             "zh-TW": "乘客搭著摩托車形的雲霄飛車車輛延著單軌軌道前進",
             "pt-BR": "Carros únicos moldados como motos",
-            "cs-CZ": "Vozy ve tvaru motorek vozí návštěvníky po jednokolejné trati",
+            "cs-CZ": "Samostatné vozy ve tvaru motorek",
             "ja-JP": "シングルレールコースをオートバイの形の車両が走行する乗物です",
             "pl-PL": "Pasażerowie jadą wagonikami w kształcie motocykli po jednoszynowym torze",
             "ru-RU": "Машины, похожие по форме на мотоцикл",
             "eo-ZZ": "Unuopaj ĉaroj formitaj kiel motorbiciklo",
             "ca-ES": "Cotxes individuals en forma de motocicleta.",
             "fi-FI": "Yksittäiset moottoripyörän muotoiset vaunut",
-            "gl-ES": "Vagóns individuais con forma de motocicleta"
+            "gl-ES": "Vagóns individuais con forma de motocicleta",
+            "hu-HU": "Motorkerékpár alakú különálló járművek"
         },
         "capacity": {
             "en-GB": "2 riders per bike",
@@ -127,7 +129,8 @@
             "ru-RU": "2 пассажира на мотоцикл",
             "eo-ZZ": "Po 2 rajdantoj por biciklo",
             "ca-ES": "2 motoristes per motocicleta",
-            "fi-FI": "2 matkustajaa per pyörä"
+            "fi-FI": "2 matkustajaa per pyörä",
+            "hu-HU": "2 utas motoronként"
         }
     }
 }

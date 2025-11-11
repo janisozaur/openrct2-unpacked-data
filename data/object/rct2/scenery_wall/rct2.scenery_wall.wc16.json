@@ -34,14 +34,15 @@
             "zh-CN": "栅栏",
             "zh-TW": "柵欄",
             "pt-BR": "Cerca",
-            "cs-CZ": "Fence",
+            "cs-CZ": "Plot",
             "ja-JP": "フェンス",
             "pl-PL": "Płot",
             "ru-RU": "Забор",
             "eo-ZZ": "Barilo",
             "ca-ES": "Tanca",
             "fi-FI": "Aita",
-            "gl-ES": "Cerca"
+            "gl-ES": "Cerca",
+            "hu-HU": "Kerítés"
         }
     }
 }

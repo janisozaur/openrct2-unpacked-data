@@ -57,13 +57,13 @@
             "en-US": "Snowmobile Bumper Cars",
             "fr-FR": "Motoneiges-tamponneuses",
             "de-DE": "Schneemobilscooter",
-            "es-ES": "Coches de choque esquimales",
-            "it-IT": "Le motoslitte",
+            "es-ES": "Coches de choque Motonieve",
+            "it-IT": "Autoscontri a motoslitte",
             "nl-NL": "Sneeuwscooters",
-            "sv-SE": "Skidoo-bilar",
+            "sv-SE": "Snöskotrar",
             "zh-CN": "雪橇碰碰车",
             "ja-JP": "スキードゥー・バンパーカー",
-            "cs-CZ": "Sněžné vozy",
+            "cs-CZ": "Sněžné skůtry",
             "ko-KR": "설상차 범퍼카",
             "pl-PL": "Skutery śnieżne",
             "ru-RU": "Снегоходы для автодрома",
@@ -71,19 +71,20 @@
             "eo-ZZ": "Motorsledoformaj Doĝemoj",
             "ca-ES": "Motos de neu de xoc",
             "fi-FI": "Moottorikelkat",
-            "gl-ES": "Autos de choque en motoneve"
+            "gl-ES": "Autos de choque en motoneve",
+            "hu-HU": "Hószán dodzsemek"
         },
         "description": {
             "en-GB": "Guests slide around in snowmobile-shaped vehicles that they freely control",
             "fr-FR": "Les passagers glissent sur des véhicules en forme de motoneiges qu’ils contrôlent à leur guise",
             "de-DE": "Die Fahrgäste schlittern in selbstgesteuerten schneemobilförmigen Fahrzeugen umher",
-            "es-ES": "Coches de choque eléctricos de conducción propia",
-            "it-IT": "Usa veicoli elettrici tipo autoscontro",
+            "es-ES": "Los usuarios se deslizan libremente en vehículos con forma de motonieve",
+            "it-IT": "I visitatori scivolano a bordo di veicoli a forma di motoslitta che possono controllare liberamente",
             "nl-NL": "Elektrische sneeuwscooters die de passagiers zelf besturen",
             "sv-SE": "Gäster halkar omkring på snöskotrar som de styr själva",
             "zh-CN": "自助式电动碰碰车",
             "ja-JP": "スキードゥーの形をしたバンパーカーです",
-            "cs-CZ": "Autodrom s vozy ve tvaru sněžných vozů",
+            "cs-CZ": "Návštěvníci se klouzají ve volně ovladatelných sněžných skůtrech",
             "ko-KR": "자유롭게 조종할 수 있는 설상차 모양의 차량을 미끄러지듯 타는 놀이기구",
             "pl-PL": "Goście ślizgają się w pojazdach w kształcie skuterów śnieżnych, które mogą dowolnie kontrolować",
             "ru-RU": "Скользящие снегоходы, свободно управляемые пассажирами",
@@ -91,7 +92,8 @@
             "eo-ZZ": "Gastoj glitas en motorsledoformaj veturiloj, kiujn ili stiras libere",
             "ca-ES": "Els passatgers condueixen vehicles en forma de motos de neu.",
             "fi-FI": "Matkustajat kulkevat itse ajamissaan moottorikelkan muotoisissa ilmatyynyaluksissa",
-            "gl-ES": "Os pasaxeiros deslízanse en vehículos con forma de motoneve que controlan libremente."
+            "gl-ES": "Os pasaxeiros deslízanse en vehículos con forma de motoneve que controlan libremente.",
+            "hu-HU": "A vendégek hószán alakú járművekben csúszkálnak, amelyeket szabadon irányíthatnak"
         },
         "capacity": {
             "en-GB": "1 person per car",
@@ -100,7 +102,7 @@
             "es-ES": "1 persona por coche",
             "it-IT": "1 persona per veicolo",
             "nl-NL": "1 passagier per karretje",
-            "sv-SE": "1 passagerare per bil",
+            "sv-SE": "1 passagerare per skoter",
             "zh-CN": "1位乘客/车",
             "ja-JP": "各1名",
             "cs-CZ": "1 místo v každém voze",
@@ -111,7 +113,8 @@
             "eo-ZZ": "Po 1 ulo por ĉaro",
             "ca-ES": "1 persona per cotxe",
             "fi-FI": "1 matkustaja per ajoneuvo",
-            "gl-ES": "1 persoa por coche"
+            "gl-ES": "1 persoa por coche",
+            "hu-HU": "1 személy kocsinként"
         }
     }
 }

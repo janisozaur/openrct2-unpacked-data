@@ -101,7 +101,8 @@
             "eo-ZZ": "Penditaj Svingiĝantaj Aeroplano-Ĉaroj",
             "ca-ES": "Avions",
             "fi-FI": "Riippuvat lentokone-keinuvaunut",
-            "gl-ES": "Coches de avión balanceados pendurados"
+            "gl-ES": "Coches de avión balanceados pendurados",
+            "hu-HU": "Felfüggesztett lengő repülőgép kocsik"
         },
         "description": {
             "en-GB": "Suspended roller coaster trains consisting of aeroplane-shaped cars able to swing freely as the train goes around corners",
@@ -116,14 +117,15 @@
             "zh-CN": "悬挂式过山车列车是由飞机外形的车辆所组成的,车辆在经过转角处时会自由摆动摇晃",
             "zh-TW": "懸掛式雲霄飛車列車是由飛機外形的車輛所組成的,車輛在經過轉角處時會自由?動搖晃",
             "pt-BR": "Trens de montanha-russa suspensa consistindo de vagões em forma de avião, capazes de balançar livremente quando o trem entra em curvas",
-            "cs-CZ": "Zavěšená horská dráha z volné zavěšených vozů ve tvaru aeroplánu, které se naklání při jízdě do zatáček",
+            "cs-CZ": "Závěsné vlaky horské dráhy sestávající se z vozů schopných volně se kývat ze strany na stranu při průjezdu zatáčkami",
             "ja-JP": "ぶら下がった飛行機型の車両が、コーナーで大きく揺れ動くコースターです",
             "pl-PL": "Kolejka górska z podwieszanymi wagonikami w kształcie samolotów, które mogą się swobodnie kołysać podczas pokonywania zakrętów",
             "ru-RU": "Подвесной поезд, состоящий из машин-самолётов, свободно раскачивающихся на резких поворотах",
             "eo-ZZ": "Penditaj trajnoj de onda fervojo, kiuj konsistas el aeroplanoformaj ĉaroj, kiuj svingiĝas libere kiam la trajno iras ĉirkau anguloj",
             "ca-ES": "Muntanya russa amb trens penjants amb cotxes en forma d’avió que es balancegen quan passen per les corbes.",
             "fi-FI": "Lentokoneen muotoiset vapaasti käänteissä keinuvat riippuvat vuoristoratavaunut",
-            "gl-ES": "Trens de montaña rusa pendurados que consisten en coches con forma de avión capaces de balancearse libremente mentres o tren dá as curvas"
+            "gl-ES": "Trens de montaña rusa pendurados que consisten en coches con forma de avión capaces de balancearse libremente mentres o tren dá as curvas",
+            "hu-HU": "Felfüggesztett hullámvasút-szerelvények, repülőgép alakú kocsikkal, amelyek szabadon lengnek a kanyarokban"
         },
         "capacity": {
             "en-GB": "4 passengers per car",
@@ -144,7 +146,8 @@
             "eo-ZZ": "Po 4 pasaĝeroj por ĉaro",
             "ca-ES": "4 passatgers per cotxe",
             "fi-FI": "4 matkustajaa per vaunu",
-            "gl-ES": "4 pasaxeiros por coche"
+            "gl-ES": "4 pasaxeiros por coche",
+            "hu-HU": "4 utas kocsinként"
         }
     }
 }

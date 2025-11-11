@@ -79,7 +79,8 @@
             "eo-ZZ": "Cigno-Boatoj",
             "ca-ES": "Cignes",
             "fi-FI": "Joutsenet",
-            "gl-ES": "Cisnes"
+            "gl-ES": "Cisnes",
+            "hu-HU": "Hattyúk"
         },
         "description": {
             "en-GB": "Swan-shaped boats, propelled by the pedalling front seat passengers",
@@ -94,20 +95,21 @@
             "zh-CN": "天鹅外形的船, 由前座的乘客脚踏前进",
             "zh-TW": "天鵝外形的船, 由前座的乘客腳踏前進",
             "pt-BR": "Barco em forma de cisne, propulsionado pelos pedais dos passageiros da frente",
-            "cs-CZ": "Lodě ve tvaru labutí, ovládané šlapáním návštěvníků",
+            "cs-CZ": "Šlapadla ve tvaru labutí poháněné návštěvníky sedícími vepředu",
             "ja-JP": "前席の乗客がペダルを漕いで進む、白鳥型のボートです",
             "pl-PL": "Łodzie w kształcie łabędzi napędzane przez pedałujących pasażerów z przednich miejsc",
             "ru-RU": "Лодки в форме лебедей, передвигающиеся благодаря педалям на переднем ряду",
             "eo-ZZ": "Cignoformaj boatoj, kiujn la pedalado de la frontaj pasaĝeroj antaŭenigas",
             "ca-ES": "Barques en forma de cignes que els passatgers mouen pedalant.",
             "fi-FI": "Joutsenen muotoiset veneet, jotka liikkuvat eturivin matkustajien polkemana",
-            "gl-ES": "Barcos con forma de cisne, propulsados polos pasaxeiros do asento dianteiro que pedalean"
+            "gl-ES": "Barcos con forma de cisne, propulsados polos pasaxeiros do asento dianteiro que pedalean",
+            "hu-HU": "Hattyú formájú csónakok, amelyeket az első ülésen pedálozó utasok hajtanak"
         },
         "capacity": {
             "en-GB": "4 passengers per boat",
             "fr-FR": "4 passagers par bateau",
             "de-DE": "4 Fahrgäste pro Boot",
-            "es-ES": "4 pasajeros por vagón",
+            "es-ES": "4 pasajeros por bote",
             "it-IT": "4 passeggeri a barca",
             "nl-NL": "4 passagiers per boot",
             "sv-SE": "4 passagerare per båt",
@@ -115,13 +117,14 @@
             "zh-CN": "4 位乘客/船",
             "zh-TW": "4 位乘客 /每艘船",
             "pt-BR": "4 passageiros por barco",
-            "cs-CZ": "4 místa na každém raftu",
+            "cs-CZ": "4 místa na každé lodi",
             "ja-JP": "各ボート4名",
             "pl-PL": "4 pasażerów na łódkę",
             "ru-RU": "4 пассажира на лодку",
             "eo-ZZ": "Po 4 pasaĝeroj por boato",
             "ca-ES": "4 passatgers per barca",
-            "fi-FI": "4 matkustajaa per vene"
+            "fi-FI": "4 matkustajaa per vene",
+            "hu-HU": "4 utas csónakonként"
         }
     }
 }

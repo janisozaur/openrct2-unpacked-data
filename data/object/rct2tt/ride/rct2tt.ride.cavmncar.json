@@ -237,14 +237,14 @@
             "zh-TW": "乘客以石器時代高卡賽車彼此競速",
             "ja-JP": "石器時代をモチーフにしたゴーカート",
             "pt-BR": "Karts pilotáveis em temática da Idade da Pedra",
-            "cs-CZ": "Benzínové ovladatelné motokáry ve stylu pravěku",
+            "cs-CZ": "Návštěvníci řídí benzínové motokáry ve stylu doby kamenné",
             "pl-PL": "Pasażerowie ścigają się gokartami w stylu epoki kamiennej",
             "ru-RU": "Машины для картинга в стиле каменного века",
             "eo-ZZ": "Gokartoj kun Ŝtonepoka stilo",
             "ca-ES": "Karts que condueixen els usuaris de l’edat de pedra.",
             "fi-FI": "Itse ajettavat kivikauden tyyliset mikroautot",
             "zh-CN": "石器时代风格的自驾卡丁车",
-            "hu-HU": "Önvezető gokartok, kőkorszaki stílusban",
+            "hu-HU": "Önjáró gokartok, kőkorszaki stílusban",
             "gl-ES": "karts autónomos ao estilo da Idade de Pedra"
         },
         "capacity": {
@@ -266,7 +266,7 @@
             "ca-ES": "Monoplaça",
             "fi-FI": "Yksipaikkainen",
             "zh-CN": "单人座",
-            "hu-HU": "Együléses",
+            "hu-HU": "Egyszemélyes",
             "gl-ES": "Monopraza"
         }
     }

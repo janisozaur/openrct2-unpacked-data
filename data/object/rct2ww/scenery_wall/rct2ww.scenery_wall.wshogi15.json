@@ -26,7 +26,7 @@
             "sv-SE": "Shōji-mur",
             "zh-CN": "日本-障子墙",
             "ja-JP": "日本的な垣",
-            "cs-CZ": "Čínská zeď",
+            "cs-CZ": "Japonská shoji zeď",
             "ko-KR": "쇼지 벽",
             "pl-PL": "Ściana japońska",
             "ru-RU": "Японский забор",
@@ -34,7 +34,8 @@
             "eo-ZZ": "Japana Barilo",
             "ca-ES": "Tanca japonesa",
             "fi-FI": "Japanilainen aita",
-            "gl-ES": "Valado Xaponés"
+            "gl-ES": "Valado Xaponés",
+            "hu-HU": "Japán kerítés"
         }
     }
 }

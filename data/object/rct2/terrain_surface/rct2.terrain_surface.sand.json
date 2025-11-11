@@ -40,7 +40,10 @@
             "fi-FI": "Hiekka",
             "zh-CN": "沙子",
             "ru-RU": "Песок",
-            "gl-ES": "Area"
+            "gl-ES": "Area",
+            "cs-CZ": "Písek",
+            "es-ES": "Arena",
+            "hu-HU": "Homok"
         }
     }
 }

@@ -144,7 +144,7 @@
             "ko-KR": "대형 맹그로브 나무",
             "zh-TW": "熱帶雨林樹",
             "pt-BR": "Árvore de Pântano Gigante",
-            "cs-CZ": "Mangrove",
+            "cs-CZ": "Obrovský mangrove strom",
             "pl-PL": "Wielki mangrowiec",
             "ru-RU": "Огромное манговое дерево",
             "ja-JP": "巨大なマングローブの木",
@@ -152,7 +152,8 @@
             "ca-ES": "Manglar gegant",
             "fi-FI": "Jättimäinen mangrovepuu",
             "zh-CN": "巨大红树",
-            "gl-ES": "Árvore xigante de mangleiro"
+            "gl-ES": "Árvore xigante de mangleiro",
+            "hu-HU": "Óriás mangrovefa"
         }
     }
 }

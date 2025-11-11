@@ -142,7 +142,7 @@
             "ko-KR": "UFO 추락 현장",
             "zh-TW": "UFO墜落處",
             "pt-BR": "Local de Queda de OVNI",
-            "cs-CZ": "UFO havárie",
+            "cs-CZ": "Havarované UFO",
             "pl-PL": "Miejsce katastrofy UFO",
             "ru-RU": "Место падения НЛО",
             "ja-JP": "UFOの事故現場",
@@ -150,7 +150,8 @@
             "ca-ES": "Lloc d’accident d’ovni",
             "fi-FI": "UFO-onnettomuuspaikka",
             "zh-CN": "不明飞行物坠落现场",
-            "gl-ES": "Sitio do accidente OVNI"
+            "gl-ES": "Sitio do accidente OVNI",
+            "hu-HU": "UFO becsapódás helyszíne"
         }
     }
 }
